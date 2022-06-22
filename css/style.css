@@ -1,2 +1,37 @@
+.row {
+    height: 50px;
+}
 
 
+.box {
+    border: 1px solid white;
+    color: white;
+    height: 100%;
+    background-color: blue;
+}
+
+.box.green {
+    background-color: #00e165;
+    height: 100%; 
+    border: 1px solid blue;
+}
+
+.padding {
+    padding: 10px;
+}
+
+.flex {
+    display: flex;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.align-center {
+    align-items: center;
+}
+
+.m-bot {
+    margin-bottom: 2rem;
+}
