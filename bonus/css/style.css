@@ -1,0 +1,28 @@
+.box {
+    color: white;
+    aspect-ratio: 1;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.gold {
+    background-color: gold;
+}
+
+.red {
+    background-color: red;
+}
+
+.brown {
+    background-color: #462300;
+}
+
+.black {
+    background-color: black;
+}
+
+.yellow {
+    background-color: #fff200;
+}
